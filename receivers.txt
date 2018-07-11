@@ -1,0 +1,12 @@
+yahoo.com
+9999
+users@yahoo.txt
+gmail.com
+9998
+users@gmail.txt
+hotmail.com
+9997
+users@hotmail.txt
+nitc.ac.in
+9996
+users@nitc.txt
